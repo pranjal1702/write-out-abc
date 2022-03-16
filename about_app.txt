@@ -1,0 +1,22 @@
+A signup page for registering new user .
+User have facility to password while signing up.
+Login page for already registered users.
+After logging in three tabs and one floating action button will be displayed on screen.
+
+Writing new article
+  Floating action button is for writing new articles.
+  On clicking floating action button user will be asked for title and category of article and after mentioning that he/she can start writing new article.
+
+My Article’s page
+  It contains  article saved by user previously with it’s date of publication , Title and Category . user can access his/her article from here.
+  User have facility to edit or delete article.
+  There will be search bar to find articles based on their category.
+
+Others article’s page
+  Here articles of other users with title, name of author, date of publication and category of article will be present.
+  User can read article by clicking on that and can also add that article to favorites section.
+  Search bar to search articles based on category.
+
+Favorites page
+  Articles added to favorites by user will appear here and same can be accessed from here also for reading.
+  There will be option to remove from favorites.
